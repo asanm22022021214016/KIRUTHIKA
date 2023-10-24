@@ -1,2 +1,2 @@
-# KIRUTHIKA
+# Kutty
 Create Repository
